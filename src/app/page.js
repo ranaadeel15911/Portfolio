@@ -39,7 +39,7 @@ transition={{staggerChildren:0.4}}
 
 
 >
-<motion.h1 variants={textAnimate} className="text-white text-sm md:text-xl lg:text-2xl font-bold anta-regular">Hello ,it's Me</motion.h1>
+<motion.h1 variants={textAnimate} className="text-white text-sm md:text-xl lg:text-2xl font-bold anta-regular">Hello its Me</motion.h1>
 <motion.h1  className="text-white text-xl md:text-2xl lg:text-4xl font-bold kanit-medium">RaNa Adeel</motion.h1>
 <motion.h1  className="text-white text-sm md:text-xl lg:text-2xl font-bold anta-regular gap-3 flex">And I am a <Typewriter
 
